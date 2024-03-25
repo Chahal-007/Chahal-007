@@ -12,10 +12,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Performing Searches In Splunk         | <a href="https://github.com/Chahal-007/Splunk-Hands-On/blob/main/README.md"> Splunk Hands-on Experience|
-<!--| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Creating Splunk Reports and Dashboards        | <a href="https://github.com/Chahal-007/Splunk-Reports-Dashboards/blob/main/README.md"> Splunk Reports & Dashboards|
+<!-- | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
+
 -->
 <!--| Scripting and Automation for Threat Mitigation | SOC Automation Lab|-->
 
