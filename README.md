@@ -20,7 +20,9 @@ Passionate to transition into cybersecurity field, specifically aiming to join a
 ## Certifications
 <div>
 <a href="https://www.credly.com/badges/af4dca10-2c51-4368-a889-00d41a10059b/public_url"><img src="https://img.shields.io/badge/Google_Cybersecurity_Certificate-brighten" /></a>
-<!--<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.credly.com/badges/f9855fd2-e6dd-41f5-94c9-879dd279622c/public_url"><img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-purple
+"></a>
+   <!--<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" /> -->
