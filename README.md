@@ -1,9 +1,10 @@
-### Hi, I am HARPAL CHAHAL
+# Hi, I am HARPAL CHAHAL
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+I am a graduate with one year experience in web-development. I want to switch my long-term career into cybersecuirty field. 
 ## Objective
 
-Passionate to transition into cybersecurity field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or Security Engineering Team.
+I have been consistently studying cybersecurity for the past few months to step into cybersecurity field. I am passionate to transition into cybersecurity field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or Security Engineering Team.
 
 ## Project Work Portfolio
 
