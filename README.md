@@ -19,7 +19,7 @@ Passionate to transition into cybersecurity field, specifically aiming to join a
 -->
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/Google_Cybersecurity_Certificate-brighten" />
+<a href=""https://www.credly.com/badges/af4dca10-2c51-4368-a889-00d41a10059b/public_url><img src="https://img.shields.io/badge/Google_Cybersecurity_Certificate-brighten" /></a>
 <!--<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
@@ -34,9 +34,9 @@ Passionate to transition into cybersecurity field, specifically aiming to join a
 
 ### Network
 <div>
-    <a href="https://www.credly.com/badges/af4dca10-2c51-4368-a889-00d41a10059b/public_url"> 
+   
         <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white"/>
-    </a>
+    
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
   <!--  <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" /> -->
 </div>
