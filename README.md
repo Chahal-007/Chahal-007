@@ -16,6 +16,7 @@ I have been consistently studying cybersecurity for the past few months to step 
 
 ## Certifications
 <div>
+<a href="https://www.credly.com/badges/eeac9231-6c50-4464-b336-000331470b4c/public_url"><img src="https://img.shields.io/badge/Splunk_Core_Certified_User-orange"></a>
 <a href="https://www.credly.com/badges/af4dca10-2c51-4368-a889-00d41a10059b/public_url"><img src="https://img.shields.io/badge/Google_Cybersecurity_Certificate-brighten" /></a>
 <a href="https://www.credly.com/badges/f9855fd2-e6dd-41f5-94c9-879dd279622c/public_url"><img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-purple"/></a>
 
