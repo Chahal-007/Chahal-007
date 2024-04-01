@@ -31,7 +31,7 @@ I have been consistently studying cybersecurity for the past few months to step 
 - Using NIST Framework functions to respond to a security incident and create a plan to improve network security.
 - Analysis of Network hardening and how improper policies implementation and undetected vulnerabilities could lead to a breach.
 
-## Web-Development Project for learning Purpose:
+## Web-Development Project:
 
 - http://www.priyankahenna.com
   
